@@ -1,0 +1,51 @@
+typography_spectrum: 0.9035083281812212
+color:
+  brandStrength: 0.9708729367175757
+  lightness: 0.8994492329667221
+  saturation: 0.38645205904360824
+  rhythmicContrast: 0.5210399916209281
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.5484813243183907
+name: bikepacking
+navigation:
+  - name: About
+    id: 4c8a370e-a660-46d4-b720-46bb0a5e5cdb
+    type: content
+  - name: Events
+    id: eece7db6-f29e-4c69-ac4f-630f72f7d3d5
+    type: content
+title: Bikepacking Switzerland
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aee0253-4ae7-41fa-9bff-bc4f847af2ba.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aee0253-4ae7-41fa-9bff-bc4f847af2ba.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: All things bikepacking in and around Switzerland
+analytics:
+  google: UA-90833889-1
+github: true
