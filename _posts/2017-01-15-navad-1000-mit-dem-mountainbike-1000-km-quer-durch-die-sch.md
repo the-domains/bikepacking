@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   This is a collection of bikepacking events in Switzerland and neighboring
   countries (Italy, Germany, France, Austria).
-dateModified: '2017-01-26T08:58:06.134Z'
-datePublished: '2017-01-26T08:58:06.789Z'
+dateModified: '2017-01-26T08:58:11.913Z'
+datePublished: '2017-01-26T08:58:12.381Z'
 title: Bikepacking events in and around Switzerland
 author: []
 publisher: {}
