@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   This is a collection of bikepacking events in Switzerland and neighboring
   countries (Italy, Germany, France, Austria).
-dateModified: '2017-01-30T20:10:32.639Z'
-datePublished: '2017-01-30T20:10:33.835Z'
+dateModified: '2017-01-30T20:16:03.498Z'
+datePublished: '2017-01-30T20:16:04.868Z'
 title: Bikepacking events in and around Switzerland
 author: []
 publisher: {}
@@ -33,7 +33,7 @@ This is a collection of bikepacking events in Switzerland and neighboring countr
 
 ---
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/486dbbc04860ec9c4fbebd834c4a8c3c3f8f910c.png" /><h1>Grenzsteintrophy</h1><p>The original German bikepacking event, following the former border between the East and West Germany.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/486dbbc04860ec9c4fbebd834c4a8c3c3f8f910c.png" /><h1>Grenzsteintrophy</h1><p>The original German bikepacking event, following the former border between East and West Germany.</p></article>
 
 ---
 
@@ -41,7 +41,11 @@ This is a collection of bikepacking events in Switzerland and neighboring countr
 
 ---
 
-![A fantastic 500km route in our most beautiful neighboring country, mixing Tuscan backroads with trails in the Appenines, two beautiful historic cities and a rewarding final descent towards the Adriatic sea. I wrote a report on the 2016 edition here: http://bikepacker.com/coast-to-coast-in-italy ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3491be2f-03e2-4143-a4b0-59269309251e.jpg)
+<article style=""><h1>Italy Coast to Coast</h1></article>
+
+I wrote a report on the 2016 edition here:
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8884a1db79a45edb1dd400f2ee3892a5/noop.jpg?input=http%3A%2F%2Fbikepacker.com%2Fwp-content%2Fuploads%2F2016%2F11%2FCoast-to-Coast-in-Italy-3441.jpg" /><h1>From Coast to Coast in Italy: A Rambling Recap - Bikepacker</h1><p>Five weeks ago I lifted my dusty bike and tired body out of a train from Italy and stumbled home, feeling strangely lightweight nonetheless. I had completed a great little adventure, surpassed my own expectations and taken some of the warmth of the people and landscapes back home with me.</p></article>
 
 ---
 
