@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   This is a collection of bikepacking events in Switzerland and neighboring
   countries (Italy, Germany, France, Austria).
-dateModified: '2017-01-26T08:58:11.913Z'
-datePublished: '2017-01-26T08:58:12.381Z'
+dateModified: '2017-01-30T20:10:32.639Z'
+datePublished: '2017-01-30T20:10:33.835Z'
 title: Bikepacking events in and around Switzerland
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ This is a collection of bikepacking events in Switzerland and neighboring countr
 
 ---
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0775fbc2ef0355fa8a4e09c8f3478afaa3319d42.png" /><h1>Navad1000</h1><p>1000 kilometers and 33'000 meters of climbing - the Navad 1000 is a very hard event but features some of the most beautiful climbs you can find in Switzerland. I rode 850 kilometers of the first edition until I fell ill and came away with mixed feelings about the course. On the one hand, it is a complete cross-section of everything the centre of Switzerland, the Alps and mainly the Pre-Alps have to offer, featuring some stunning roads. On the other hand, the climbing at times just feels silly - as if you did it just for the sake of it rather than to find a nice trail or visit a nice pass. Especially if you climb up a hill on a arduous trail but then have to descend on a paved road on the other side, an issue throughout the course. But beyond the insane distance/ climbing ratio and some route choices that could be reconsidered (particularly between Lucerne and the Napf) it still is the premier event in Switzerland and an amazing way to see (and suffer) through the country.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0775fbc2ef0355fa8a4e09c8f3478afaa3319d42.png" /><h1>Navad1000</h1><p>1000 kilometers and 33'000 meters of climbing - the Navad 1000 is a climber's dream event. Everyone else might alternate between cursing the incessant uphills and being awestruck by the beautiful scenery that is packed into the route. I rode 850 kilometers of the first edition in 2015 until I fell ill and came away with mixed feelings about the course. On the one hand, it is a complete cross-section of everything the centre of Switzerland, the Alps and mainly the Pre-Alps have to offer, featuring some stunning roads. On the other hand, the climbing at times just feels silly - as if you did it just for the sake of it rather than to find a nice trail or visit a nice pass. But beyond the insane distance/ climbing ratio and some route choices that could be reconsidered (particularly between Lucerne and the Napf) it still remains the premier event in Switzerland and an amazing way to see (and suffer) through a large cross-section of the country.</p></article>
 
 ---
 
@@ -53,7 +53,7 @@ This is a collection of bikepacking events in Switzerland and neighboring countr
 
 ---
 
-<article style=""><h1>Apulia Trail</h1></article>
+<article style=""><h1>Apulia Trail</h1><p>Probably something for rather sun-hungry bikepackers and quite a trek from Switzerland, but it might be worth it. I will try to get some first-hand information about it at some point.</p></article>
 
 ---
 
