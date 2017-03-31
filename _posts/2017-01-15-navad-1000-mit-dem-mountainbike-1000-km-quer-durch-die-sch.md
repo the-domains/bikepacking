@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   This is a collection of bikepacking events in Switzerland and neighboring
   countries (Italy, Germany, France, Austria).
-dateModified: '2017-01-30T20:16:03.498Z'
-datePublished: '2017-01-30T20:16:04.868Z'
+dateModified: '2017-03-31T08:15:20.367Z'
+datePublished: '2017-03-31T08:15:21.197Z'
 title: Bikepacking events in and around Switzerland
 author: []
 publisher: {}
@@ -45,7 +45,7 @@ This is a collection of bikepacking events in Switzerland and neighboring countr
 
 I wrote a report on the 2016 edition here:
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8884a1db79a45edb1dd400f2ee3892a5/noop.jpg?input=http%3A%2F%2Fbikepacker.com%2Fwp-content%2Fuploads%2F2016%2F11%2FCoast-to-Coast-in-Italy-3441.jpg" /><h1>From Coast to Coast in Italy: A Rambling Recap - Bikepacker</h1><p>Five weeks ago I lifted my dusty bike and tired body out of a train from Italy and stumbled home, feeling strangely lightweight nonetheless. I had completed a great little adventure, surpassed my own expectations and taken some of the warmth of the people and landscapes back home with me.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d472c3647a1c8953987875442f6a78054d35e4d7.jpg" /><h1>From Coast to Coast in Italy: A Rambling Recap - Bikepacker</h1></article>
 
 ---
 
