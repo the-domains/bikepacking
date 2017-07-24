@@ -1,16 +1,16 @@
-typography_spectrum: 0.9035083281812212
+layout_spectrum: 0.45875968606865936
+typography_spectrum: 0.5930709647522815
 color:
-  brandStrength: 0.9708729367175757
-  lightness: 0.8994492329667221
-  saturation: 0.38645205904360824
-  rhythmicContrast: 0.5210399916209281
+  brandStrength: 0.43779082506461675
+  lightness: 0.2968965959639316
+  saturation: 0.8541423033839921
+  rhythmicContrast: 0.3555121869508103
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-layout_spectrum: 0.5484813243183907
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: bikepacking
 navigation:
   - name: About
