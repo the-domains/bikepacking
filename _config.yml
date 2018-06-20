@@ -16,9 +16,6 @@ navigation:
   - name: About
     id: 4c8a370e-a660-46d4-b720-46bb0a5e5cdb
     type: content
-  - name: Events
-    id: eece7db6-f29e-4c69-ac4f-630f72f7d3d5
-    type: content
 title: Bikepacking Switzerland
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
