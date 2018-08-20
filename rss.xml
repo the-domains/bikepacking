@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bikepacking Switzerland]]></title>
+        <description><![CDATA[Bikepacking Switzerland]]></description>
+        <link>https://thegrid.ai/bikepacking/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Aug 2018 12:33:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bikepacking/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 20 Aug 2018 12:33:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[Bikepacking?]]></title>
+            <description><![CDATA[<h1>Bikepacking?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00117383-c83f-48ee-8547-66ea9367fdf6.jpg">,<h2>It is like backpacking but on a bike. Or bike touring but on a mountainbike. Kind of.</h2>]]></description>
+            <link>https://thegrid.ai/bikepacking/bikepacking/index.html</link>
+            <guid isPermaLink="false">4c8a370e-a660-46d4-b720-46bb0a5e5cdb</guid>
+            <pubDate>Sun, 15 Jan 2017 14:37:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
