@@ -1,7 +1,7 @@
 ---
 title: Bikepacking?
-datePublished: '2018-08-20T12:33:27.882Z'
-dateModified: '2018-08-20T12:33:26.627Z'
+datePublished: '2018-08-20T12:37:18.132Z'
+dateModified: '2018-08-20T12:37:17.230Z'
 publisher: {}
 author: []
 inFeed: true
@@ -40,4 +40,4 @@ It is a great thing because bikepacking can deliver on many of the promises that
 
 Finally, the great appeal of the activity is bringing people together around a love of bikes and nature. This is evident when you go out with friends to conquer a route you know nothing about, bruise your noses along the way, get stuck in mud and ride into the sunset to return another day. But often, organized bikepacking events are not too different. They seldomly are strictly policed affairs, rankings are often not published or in alphabetical order and there is a convivial feeling at the starting line. From the veteran trying to challenge his own, impossible time the year before - to the guy in jeans on his fatbike out to savour the local beer along the way.
 
-This site is dedicated to keeping this spirit alive in Switzerland.
+This site is dedicated to keeping this spirit alive in Switzerland. Any ideas for its direction - want to to contribute? Please get in touch! bikepacking.switzerland@gmail.com
